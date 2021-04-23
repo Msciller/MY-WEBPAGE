@@ -2,10 +2,7 @@
   <head>
         <meta charset="utf 8">
         <title>Index</title>
-    <style> 
-        h1{color: yellow;}
-        h2{color: rgb(28,173,35);}       
-    </style>
+ 
   </head>
   <body>
     <h1>WELCOME :)</h1>
