@@ -3,6 +3,7 @@
 		<title>Web Accessibility Content</title>
 		<meta charset="utf-8">
 	</head>
+	<body>
 		<h1>Guidelines on accessible web design</h1>
 		<h3>Web Content Accessibility Guidelines</h3>
 		<p>In 1999 the Web Accessibility Initiative, a project by the World Wide Web
@@ -111,6 +112,5 @@
 		new guidelines difficult to navigate and understand, and other argued failings.<br>
 		In Spain, UNE 139803 is the norm entrusted to regulate web accessibility. This standard is
 		based on Web Content Accessibility Guidelines 1.0.</p>
-		
-		
+	</body>
 
