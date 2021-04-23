@@ -3,7 +3,6 @@
 		<title>Web Accessibility Content</title>
 		<meta charset="utf-8">
 	</head>
-
 		<h1>Guidelines on accessible web design</h1>
 		<h3>Web Content Accessibility Guidelines</h3>
 		<p>In 1999 the Web Accessibility Initiative, a project by the World Wide Web
@@ -14,7 +13,7 @@
 		guidelines on how to create accessible websites. Governments are steadily adopting the
 		WCAG 2.0 as the accessibility standard for their own websites.</p>
 		<h2>WCAG 1.0</h2>
-        <p>The WCAG 1.0 was published and became a W3C recommendation on 5 May 1999. They
+        	<p>The WCAG 1.0 was published and became a W3C recommendation on 5 May 1999. They
 		have since been superseded by WCAG 2.0.<br>
 		WCAG 1.0 consists of 14 guidelines—each of which describes a general principle of
 		accessible design. Each guideline covers a basic theme of web accessibility and is
@@ -36,7 +35,6 @@
 		<li>Guideline 13: Provide clear navigation mechanisms</li>
 		<li>Guideline 14: Ensure that documents are clear and simple</li>
 		</ul>
-		
 		<p>Each of the in total 65 WCAG 1.0 checkpoints has an assigned priority level based on the
 		checkpoint's impact on accessibility:</p>
 		<ul>
@@ -50,7 +48,6 @@
 		some groups to access the Web content. Conformance to this level is described
 		as AAA or Triple-A.</li>
 		</ul>
-		
 		<h3>WCAG Samurai</h3>
 		<p>In February 2008, The WCAG Samurai, a group of developers independent of the W3C,
 		published corrections for, and extensions to, the WCAG 1.0.</p>
@@ -62,7 +59,6 @@
 		support authors to meet the guidelines and success criteria. The techniques are
 		periodically updated whereas the principles, guidelines and success criteria are stable and
 		do not change.</p>
-
 		<h3>Principles</h3>
 		<h4>Perceivable</h4>
 		<p>Information and user interface components must be presentable to users in ways they can
@@ -76,8 +72,7 @@
 		simpler layout) without losing information or structure.</li>
 		<li>Guideline 1.4: Make it easier for users to see and hear content including separating
 		foreground from background.</li>
-		</ul>
-		
+		</ul>		
 		<h4>Operable</h4>
 		<p>User interface components and navigation must be operable.</p>
 		<ul>
@@ -86,16 +81,14 @@
 		<li>Guideline 2.3: Do not design content in a way that is known to cause seizures.</li>
 		<li>Guideline 2.4: Provide ways to help users navigate, find content, and determine
 		where they are.</li>
-		</ul>
-		
+		</ul>		
 		<h4>Understandable</h4>
 		<p>Information and the operation of user interface must be understandable.</p>
 		<ul>
 		<li>Guideline 3.1: Make text content readable and understandable.</li>
 		<li>Guideline 3.2: Make web pages appear and operate in predictable ways.</li>
 		<li>Guideline 3.3: Help users avoid and correct mistakes.</li>
-		</ul>
-		
+		</ul>		
 		<h4>Robust</h4>
 		<p>Content must be robust enough that it can be interpreted reliably by a wide variety of user
 		agents, including assistive technologies.</p>
@@ -105,8 +98,7 @@
 		</ul>
 		<p>WCAG 2.0 uses the same three levels of conformance (A, AA, AAA) as WCAG 1.0, but has
 		redefined them. The WCAG working group maintains an extensive list of web accessibility
-		techniques and common failure cases for WCAG 2.0.</p>
-		
+		techniques and common failure cases for WCAG 2.0.</p>		
 		<h4>Criticism of WAI guidelines</h4>
 		<p>There has been criticism of the W3C process, claiming that it does not sufficiently put the
 		user at the heart of the process. There was a formal objection to WCAG's original claim that
