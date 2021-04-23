@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Here is an example of my title</h1>
-    <a href="https://msciller.github.io/MY-WEBPAGE/accessibility-standards.md">Accessibility Standards</a>
+    <a href="https://msciller.github.io/MY-WEBPAGE/accessibility-standards.html">Accessibility Standards</a>
   </body>
   
 </html>  
