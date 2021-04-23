@@ -85,7 +85,7 @@
 		<li>Guideline 2.2: Provide users enough time to read and use content.</li>
 		<li>Guideline 2.3: Do not design content in a way that is known to cause seizures.</li>
 		<li>Guideline 2.4: Provide ways to help users navigate, find content, and determine
-w		here they are.</li>
+		where they are.</li>
 		</ul>
 		
 		<h4>Understandable</h4>
